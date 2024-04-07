@@ -89,7 +89,7 @@ A chomper serves as the first encounter that the player must use the staff. Enem
 
 ### 2.5. Health Pickups
 
-![](DocImages/heartpickup.png.png)
+![](DocImages/heartpickup.png)
 
 The player sees the heart pickup before they are able to access it, piquing interest in how to acquire it. After they drop they will see the enemy guarding the extra heart and can choose how they wish to engage with the risk/reward of obtaining it.
 

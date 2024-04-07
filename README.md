@@ -134,7 +134,7 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 | ![](DocImages/iterative1.png) | ![](DocImages/iterative2.png) |
 | ![](DocImages/iterative3.png) | ![](DocImages/iterative4.png) |
 
-| | |
+| Prototype | Final |
 |---|---|
 | ![](DocImages/iterative5.png) | ![](DocImages/iterative6.png) |
 | ![](DocImages/iterative7.png) | ![](DocImages/iterative8.png) |

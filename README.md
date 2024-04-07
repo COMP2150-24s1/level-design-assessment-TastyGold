@@ -69,44 +69,61 @@ Checkpoints do not become mechanically relevant in the level until the introduct
 
 ### 2.2. Weapon Pickup (Staff)
 
-![](DocImages/staff)
+![](DocImages/staff.png)
 
 The player is given a safe task to complete with the new mechanic of the staff before they are challenged with an enemy encounter. This ensures that when they do encounter the enemy they already understand swinging the staff.
 
 ### 2.3. Spikes
 
+![](DocImages/spikes.png)
+
 This is the first encounter that involves the player interacting with spikes. Previous appearances of spikes in the level are purely decorative. The very first platforming area at the start of the level has spikes under a floating platform to clarify to the player that tiles cannot be jumped through; this remains true until the explicit introduction of pass-through platforms later on.
 
-
 ### 2.4. Chompers
+
+![](DocImages/chomper.png)
 
 A chomper serves as the first encounter that the player must use the staff. Enemies play a significant role in the level, and so introducing combat very early is important.
 
 ### 2.5. Health Pickups
 
+![](DocImages/heartpickup.png.png)
+
 The player sees the heart pickup before they are able to access it, piquing interest in how to acquire it. After they drop they will see the enemy guarding the extra heart and can choose how they wish to engage with the risk/reward of obtaining it.
 
 ### 2.6. Spitters
+
+![](DocImages/spitter.png)
 
 The spitter is introduced on a high perch guarded by spikes. This is to ensure the player doesn’t jump and swing at it straight away like the rest of the enemies and has a chance to observe how it shoots its projectiles.
 
 ### 2.7. Keys
 
+![](DocImages/key.png)
+
 Keys serve as the reward for completing a main section. They are not hidden or optional as they are mandatory to open the exit door. The player can see the key during the wind down section contributing to the tension and relief that it serves.
 
 ### 2.8. Moving Platforms
+
+![](DocImages/movingplatform.png.png)
 
 Moving platforms are introduced to the player first in a safe environment. In the final level I added a spitter and heart pickup underneath so the player has something to do in case they miss the platform rising and have to wait.
 
 ### 2.9. Acid
 
+![](DocImages/acid.png)
+
 Acid serves as an additional layer of depth to the platforming in the level. I introduced it at the start of the section main section to give the player time to acclimate themselves with the controls before introducing punishment for missing a jump.
 
 ### 2.10. Passthrough Platforms
 
+![](DocImages/passthrough.png)
+
 Passthrough platforms are placed in a ladder-like formation to hint to the player that they can be jumped up through directly. This is not geometry they have dealt with with solid tiles yet and so will likely now attempt to jump straight up.
 
 ### 2.11. Weapon Pickup (Gun)
+
+![](DocImages/gun.png)
 
 It was important to give the player an immediate reason to use the gun over the staff. By this point they have become comfortable with using the staff to defeat enemies so the task was challenging that comfort.
 

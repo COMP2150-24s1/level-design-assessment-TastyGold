@@ -124,39 +124,24 @@ It was important to give the player an immediate reason to use the gun over the 
 ### 3.4. Level Map – Section 3
 ![](DocImages/Comp2750_level_section3.drawio.png)
 
-## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
-
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+## 4. Iterative Design
 
 | | |
 |---|---|
 | ![](DocImages/iterative1.png) | ![](DocImages/iterative2.png) |
 | ![](DocImages/iterative3.png) | ![](DocImages/iterative4.png) |
+The final exam of the third main section is a prime example of how iterative design was used to bring an encounter from concept to final implementation. The core idea of this encounter is a moving platform that constantly moves over acid and the player has to fight to stay on the platform to reach the end goal. Informed by previous encounters and finding moving platforms to cause a lot of waiting when they are not in the right spot, the concept of a platform carousel came to mind. Instead of one platform that moves back and forth over the acid, several moving platforms would be used moving in a loop, like a carousel. This meant that there would be a lot less waiting for a platform to return if the player had to try again.
 
 | Prototype | Final |
 |---|---|
 | ![](DocImages/iterative5.png) | ![](DocImages/iterative6.png) |
 | ![](DocImages/iterative7.png) | ![](DocImages/iterative8.png) |
+Iterative design was used to create all of the encounters in this level. The level was built on an encounter-by-encounter basis and each followed the same development pipeline. Encounters started in a grey-box-esque form (the final tileset is still used as it automatically tiles and can easily be modified); the main idea for the encounter is present. In the first of the above examples, the main idea is having multiple platforms that rise and sink in sequence to allow the player to jump across. In lieu of playtesting, doing the same jump 4 times back to back didn’t feel very engaging, and so a change was made to widen the gap between the 2nd and 3rd platforms forcing the player to jump higher and further.
+
+![](DocImages/spitterintro.png)
+If I were to apply iterative design to further improve one of the existing encounters in the game, it would be the introduction to spitters. In playtesting, I found a common issue to be the player bonking their head on the perch that it is sitting on. The level geometry could be better suited for going under and around a spitter like this. The limited view radius of the spitters makes an encounter like this hard to balance. To achieve a more fluid player experience, the geometry of this encounter could be taken back to the prototyping phase. Several varied small level maps or grey-box prototypes could be created to experiment with ways to improve this encounter and the introduction of this mechanic. Alternatively, moving sections of the level geometry around one tile at a time and experimenting with multiple playtesters would allow for examination of what modifications could work better than this iteration.
 
 ## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
+No generative AI or other text generation software was used for this document.
 
 

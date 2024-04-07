@@ -6,13 +6,13 @@
 ## 1. Player Experience
 
 ### 1.1. Discovery
-| | |
+| Knowledge Check | First Encounter |
 |---|---|
 | ![Breakable walls after picking up staff](DocImages/discovery1.png) | ![First enemy encounter](DocImages/discovery2.png) |
 
 The first encounter after picking up the staff involves two breakable columns. It is important to provide the player with a playground to experiment with and understand new mechanics before they are tested on them. This is a philosophy that I tried my best to cling to when designing this level and its sections. The next thing the player will see after breaking the columns is an enemy. This encounter lets the player prove they can handle combat before having to combine it with platforming, more enemies, or other mechanics.
 
-| Knowledge Check | First Encounter |
+| Development on idea | Final exam |
 |---|---|
 | ![](DocImages/discovery3.png) | ![](DocImages/discovery4.png) |
 
@@ -20,7 +20,7 @@ Every main section and new mechanic follows a simple design formula. First the p
 
 ### 1.2. Drama
 
-| Development on idea | Final exam |
+| | |
 |---|---|
 | ![](DocImages/drama1.png) | ![](DocImages/drama2.png) |
 

@@ -107,7 +107,7 @@ Keys serve as the reward for completing a main section. They are not hidden or o
 
 ### 2.8. Moving Platforms
 
-![](DocImages/movingplatform.png.png)
+![](DocImages/movingplatform.png)
 
 Moving platforms are introduced to the player first in a safe environment. In the final level I added a spitter and heart pickup underneath so the player has something to do in case they miss the platform rising and have to wait.
 

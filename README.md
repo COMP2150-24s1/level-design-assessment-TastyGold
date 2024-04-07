@@ -65,6 +65,8 @@ Throughout the level there are several little platforms or ledges off the beaten
 
 ### 2.1. Checkpoints
 
+![](DocImages/checkpoint.png)
+
 Checkpoints do not become mechanically relevant in the level until the introduction of acid in the second main section. Though, I still have used them to signify to the player when they have overcome an obstacle or to suggest that one may be coming.
 
 ### 2.2. Weapon Pickup (Staff)

@@ -60,34 +60,56 @@ My level design makes liberal use of background tiles and surrounding geometry a
 
 Throughout the level there are several little platforms or ledges off the beaten path that the player can choose to investigate. While the topological structure of the level is very linear, small offshoots such as these offer the player a sense of freedom of exploration. The player is usually rewarded for their efforts with one or two heart pickups, which serve as an incentive to explore these offshoots when they see them again. The frequency of these optional heart pickups means that if the player is struggling for health, they can modify their playstyle to focus more on searching and collecting these heart refills.
 
-## 2. Core Gameplay (~400 words, 36 per element)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
+## 2. Core Gameplay
 
-You should restructure the headings below to match the order they appear in your level.
+### 2.1. Checkpoints
 
-### 2.1. Acid
+Checkpoints do not become mechanically relevant in the level until the introduction of acid in the second main section. Though, I still have used them to signify to the player when they have overcome an obstacle or to suggest that one may be coming.
 
-### 2.2. Checkpoints
+### 2.2. Weapon Pickup (Staff)
 
-### 2.3. Chompers
+![](DocImages/staff)
 
-### 2.4. Health Pickups
+The player is given a safe task to complete with the new mechanic of the staff before they are challenged with an enemy encounter. This ensures that when they do encounter the enemy they already understand swinging the staff.
 
-### 2.5. Keys
+### 2.3. Spikes
 
-### 2.6. Moving Platforms
+This is the first encounter that involves the player interacting with spikes. Previous appearances of spikes in the level are purely decorative. The very first platforming area at the start of the level has spikes under a floating platform to clarify to the player that tiles cannot be jumped through; this remains true until the explicit introduction of pass-through platforms later on.
 
-### 2.7. Passthrough Platforms
 
-### 2.8. Spikes
+### 2.4. Chompers
 
-### 2.9. Spitters
+A chomper serves as the first encounter that the player must use the staff. Enemies play a significant role in the level, and so introducing combat very early is important.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.5. Health Pickups
 
-### 2.11. Weapon Pickup (Staff)
+The player sees the heart pickup before they are able to access it, piquing interest in how to acquire it. After they drop they will see the enemy guarding the extra heart and can choose how they wish to engage with the risk/reward of obtaining it.
+
+### 2.6. Spitters
+
+The spitter is introduced on a high perch guarded by spikes. This is to ensure the player doesn’t jump and swing at it straight away like the rest of the enemies and has a chance to observe how it shoots its projectiles.
+
+### 2.7. Keys
+
+Keys serve as the reward for completing a main section. They are not hidden or optional as they are mandatory to open the exit door. The player can see the key during the wind down section contributing to the tension and relief that it serves.
+
+### 2.8. Moving Platforms
+
+Moving platforms are introduced to the player first in a safe environment. In the final level I added a spitter and heart pickup underneath so the player has something to do in case they miss the platform rising and have to wait.
+
+### 2.9. Acid
+
+Acid serves as an additional layer of depth to the platforming in the level. I introduced it at the start of the section main section to give the player time to acclimate themselves with the controls before introducing punishment for missing a jump.
+
+### 2.10. Passthrough Platforms
+
+Passthrough platforms are placed in a ladder-like formation to hint to the player that they can be jumped up through directly. This is not geometry they have dealt with with solid tiles yet and so will likely now attempt to jump straight up.
+
+### 2.11. Weapon Pickup (Gun)
+
+It was important to give the player an immediate reason to use the gun over the staff. By this point they have become comfortable with using the staff to defeat enemies so the task was challenging that comfort.
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.

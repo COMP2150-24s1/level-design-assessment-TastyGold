@@ -18,9 +18,11 @@ Example:
 
 ### 1.1. Discovery
 
-!(DocImages/discovery1.png) | !(DocImages/discovery2.png)
+![Breakable walls after picking up staff](DocImages/discovery1.png) | ![First enemy encounter](DocImages/discovery2.png)
 
 The first encounter after picking up the staff involves two breakable columns. It is important to provide the player with a playground to experiment with and understand new mechanics before they are tested on them. This is a philosophy that I tried my best to cling to when designing this level and its sections. The next thing the player will see after breaking the columns is an enemy. This encounter lets the player prove they can handle combat before having to combine it with platforming, more enemies, or other mechanics.
+
+![](DocImages/discovery3.png) | ![](DocImages/discovery4.png)
 
 Every main section and new mechanic follows a simple design formula. First the player is introduced to the mechanic or mechanics in a safe, experimental environment. After the introductory encounter, a series of developments on those ideas are presented. Each of these encounters present new combinations of established ideas to encourage the player to explore how they can interact with the mechanic. After the player has explored several ideas and approaches regarding a specific mechanic, they reach a ‘final exam’ that tests both their knowledge and execution of the mechanics they have learned. Each of the three main sections crescendo in these final exam encounters, with each section posing a greater challenge than the last.
 

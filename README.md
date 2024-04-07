@@ -66,25 +66,21 @@ Throughout the level there are several little platforms or ledges off the beaten
 ### 2.1. Checkpoints
 
 ![](DocImages/checkpoint.png)
-
 Checkpoints do not become mechanically relevant in the level until the introduction of acid in the second main section. Though, I still have used them to signify to the player when they have overcome an obstacle or to suggest that one may be coming.
 
 ### 2.2. Weapon Pickup (Staff)
 
 ![](DocImages/staff.png)
-
 The player is given a safe task to complete with the new mechanic of the staff before they are challenged with an enemy encounter. This ensures that when they do encounter the enemy they already understand swinging the staff.
 
 ### 2.3. Spikes
 
 ![](DocImages/spikes.png)
-
 This is the first encounter that involves the player interacting with spikes. Previous appearances of spikes in the level are purely decorative. The very first platforming area at the start of the level has spikes under a floating platform to clarify to the player that tiles cannot be jumped through; this remains true until the explicit introduction of pass-through platforms later on.
 
 ### 2.4. Chompers
 
 ![](DocImages/chomper.png)
-
 A chomper serves as the first encounter that the player must use the staff. Enemies play a significant role in the level, and so introducing combat very early is important.
 
 ### 2.5. Health Pickups
@@ -96,13 +92,11 @@ The player sees the heart pickup before they are able to access it, piquing inte
 ### 2.6. Spitters
 
 ![](DocImages/spitter.png)
-
 The spitter is introduced on a high perch guarded by spikes. This is to ensure the player doesn’t jump and swing at it straight away like the rest of the enemies and has a chance to observe how it shoots its projectiles.
 
 ### 2.7. Keys
 
 ![](DocImages/key.png)
-
 Keys serve as the reward for completing a main section. They are not hidden or optional as they are mandatory to open the exit door. The player can see the key during the wind down section contributing to the tension and relief that it serves.
 
 ### 2.8. Moving Platforms
@@ -118,28 +112,28 @@ Acid serves as an additional layer of depth to the platforming in the level. I i
 ### 2.10. Passthrough Platforms
 
 ![](DocImages/passthrough.png)
-
 Passthrough platforms are placed in a ladder-like formation to hint to the player that they can be jumped up through directly. This is not geometry they have dealt with with solid tiles yet and so will likely now attempt to jump straight up.
 
 ### 2.11. Weapon Pickup (Gun)
 
 ![](DocImages/gun.png)
-
 It was important to give the player an immediate reason to use the gun over the staff. By this point they have become comfortable with using the staff to defeat enemies so the task was challenging that comfort.
 
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
+(Recommended: right click -> open image in new tab)
  
 ### 3.1. Molecule Diagram
+![](DocImages/Comp2750_moleculediagram.drawio.png)
 
 ### 3.2. Level Map – Section 1
+![](DocImages/Comp2750_level_section1.drawio.png)
 
 ### 3.3. Level Map – Section 2
+![](DocImages/Comp2750_level_section2.drawio.png)
 
 ### 3.4. Level Map – Section 3
+![](DocImages/Comp2750_level_section3.drawio.png)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 

@@ -36,13 +36,13 @@ There are two main types of challenge in my level: combat and platforming. Both 
 
 ### 1.4. Exploration
 
-| | |
+| Pit or ledge decision | Heart pickups (negative space)|
 |---|---|
 | ![](DocImages/exploration1.png) | ![](DocImages/exploration2.png) |
 
 My level design makes liberal use of background tiles and surrounding geometry as tools to inform the feeling of each space and encounter. Despite all sections of the level sporting the same tileset and assets, contrasting spaces and feelings can be created through the use of background tiles, ceilings and stalactite formations. Using both positive and negative spaces to convey context and levels of comfort/danger to the player serves to create feelings in players that drive them forward through the level. 
 
-| | |
+| Mix of positive and negative spaces | Positive Space |
 |---|---|
 | ![](DocImages/exploration3.png) | ![](DocImages/exploration4.png) |
 

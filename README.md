@@ -17,6 +17,8 @@ Example:
 ## 1. Player Experience
 
 ### 1.1. Discovery
+| | |
+|---|---|
 | ![Breakable walls after picking up staff](DocImages/discovery1.png) | ![First enemy encounter](DocImages/discovery2.png) |
 
 The first encounter after picking up the staff involves two breakable columns. It is important to provide the player with a playground to experiment with and understand new mechanics before they are tested on them. This is a philosophy that I tried my best to cling to when designing this level and its sections. The next thing the player will see after breaking the columns is an enemy. This encounter lets the player prove they can handle combat before having to combine it with platforming, more enemies, or other mechanics.

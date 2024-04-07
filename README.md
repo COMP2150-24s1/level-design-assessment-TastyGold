@@ -108,14 +108,12 @@ Keys serve as the reward for completing a main section. They are not hidden or o
 ### 2.8. Moving Platforms
 
 ![](DocImages/movingplatform.png)
-
 Moving platforms are introduced to the player first in a safe environment. In the final level I added a spitter and heart pickup underneath so the player has something to do in case they miss the platform rising and have to wait.
 
 ### 2.9. Acid
 
 ![](DocImages/acid.png)
-
-Acid serves as an additional layer of depth to the platforming in the level. I introduced it at the start of the section main section to give the player time to acclimate themselves with the controls before introducing punishment for missing a jump.
+Acid serves as an additional layer of depth to the platforming in the level. I introduced it at the start of the second main section to give the player time to acclimate themselves with the controls before introducing punishment for missing a jump.
 
 ### 2.10. Passthrough Platforms
 
